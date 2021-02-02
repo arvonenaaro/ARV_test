@@ -18,6 +18,7 @@ namespace ARV_test.iOS
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
+           
             App.Initialize();
 
 

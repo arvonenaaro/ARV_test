@@ -1,0 +1,31 @@
+﻿<Properties HasIOSDesignerOverlayBeenDismissed="True" StartupConfiguration="{5C32BC92-EF7B-4AEF-9C29-74B4A220EC42}|Default">
+  <MonoDevelop.Ide.ItemProperties.test__ui FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainApplication.cs">
+    <Files>
+      <File FileName="Droid/MainApplication.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" />
+      <File FileName="Droid/Activities/MainActivity.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARV_test" expanded="True">
+            <Node name="ARV_test" expanded="True" selected="True" />
+            <Node name="ARV_test.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ARV__test.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6C4E019F-4722-40B6-AC67-977D97C51088">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ARV__test.iOS>
+  <MonoDevelop.Ide.ItemProperties.ARV__test.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ARV__test FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

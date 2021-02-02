@@ -1,0 +1,26 @@
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/ARV_test.iOS.exe
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/ARV_test.iOS.pdb
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/aaroarvonen/Projects/ARV_test/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/ARV_test.iOS.csprojAssemblyReference.cache
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/ARV_test.iOS.csproj.CoreCompileInputs.cache
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/ARV_test.iOS.csproj.CopyComplete
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/ARV_test.iOS.exe
+/Users/aaroarvonen/Projects/ARV_test/iOS/obj/iPhoneSimulator/Debug/ARV_test.iOS.pdb
